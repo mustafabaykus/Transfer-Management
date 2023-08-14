@@ -22,20 +22,19 @@ Bu proje, hastane VIP transferlerini yönetmek için geliştirilmiş bir yazıl�
     ```sh
     php artisan migrate
     ```
-
-4. React uygulamasını derlemek için:
-
-    ```sh
-    npm start
-    ```
-
-5. Uygulamayı başlatın:
+4. Uygulamayı başlatın:
 
     ```sh
     php artisan serve
     ```
 
-6. Tarayıcınızda http://127.0.0.1:8000 adresine giderek uygulamayı görüntüleyin.
+5. React uygulamasını derlemek için:
+
+    ```sh
+    npm start
+    ```
+
+6. Tarayıcınızda (http://localhost:3000/) adresine giderek uygulamayı görüntüleyin.
 
 
 
